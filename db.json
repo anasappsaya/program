@@ -26,34 +26,5 @@
 		"salutation" : null,
 		"linked_in_profile" : null,
 		"summary" : "He is a seasoned and respected start-up entrepreneur. In his previous role as CEO of Redhorse Corporation (listed on the Taipei Stock Exchange), he led a company with over 50 years of successful operational success in Japan"
-	},
-	{
-		"program_session_id" : 31,
-		"session_title" : "\"Treasures from Trash\" Keynote",
-		"session_description" : "By Mohamed El Fatatry Founder | ERTH",
-		"session_start" : "2019-10-02 09:40:00",
-		"session_end" : "2019-10-02 10:00:00",
-		"venue" : "Berjaya Times Square Hotel",
-		"email_address" : "test9@gmail.com",
-		"name" : "MOHAMED EL FATATRY ",
-		"designation" : "Founder ",
-		"salutation" : null,
-		"linked_in_profile" : null,
-		"summary" : "Mohamed Tarek El-Fatatry, Finnish-Egyptian serial entrepreneur currently runs ERTH"
-	},
-	
-	{
-		"program_session_id" : 32,
-		"session_title" : "B2B Roundtable 1: Halal Finance",
-		"session_description" : "By Afdhal Aliasar Director | Indonesian National Committee of Islamic Finance,  , Mustafa Aydemir Vice Chairman | MUSIAD Malaysia, Ayman Sejiny CEO | Islamic Corporation for the Development of the Private Sector (ICD), Jamaludin Bujang Managing Director | Gobi Partners, Mohammad Ridzuan President | FinTech Association Malaysia\n",
-		"session_start" : "2019-10-02 10:15:00",
-		"session_end" : "2019-10-02 11:00:00",
-		"venue" : "Berjaya Times SquareHotel",
-		"email_address" : "test13@gmail.com",
-		"name" : "JAMALUDIN BUJANG  ",
-		"designation" : "Managing Director",
-		"salutation" : null,
-		"linked_in_profile" : null,
-		"summary" : "Previously, he was the CEO and Board Member of Malaysia Venture Capital Management Berhad (MAVCAP)."
 	}
 ]
